@@ -1,16 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jun 14 02:02:27 2018
-
-@author: david
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jun 13 13:01:08 2018
-
-@author: david
-"""
 
 import pygame
 import pyganim
